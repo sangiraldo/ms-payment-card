@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ms-payment-card
+  description: microservicio para administrar pagos de tarjeta
+  annotations:
+    github.com/project-slug: sangiraldo/ms-payment-card
+  tags:
+    - nestjs
+    - microservice
+spec:
+  type: service
+  lifecycle: experimental
+  owner: group:default/team-payments
+  system: system:default/payments
