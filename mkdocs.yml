@@ -1,0 +1,6 @@
+site_name: ms-payment-card
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+plugins:
+  - techdocs-core

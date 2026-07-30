@@ -7,6 +7,7 @@ metadata:
     github.com/project-slug: sangiraldo/ms-payment-card
     dev.azure.com/project: Proyectos
     dev.azure.com/build-definition: ms-payment-card
+    backstage.io/techdocs-ref: dir:.
   tags:
     - nestjs
     - microservice
@@ -15,4 +16,3 @@ spec:
   lifecycle: experimental
   owner: group:default/team-payments
   system: system:default/payments
-  
